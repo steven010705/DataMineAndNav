@@ -7,6 +7,10 @@ Ana Maria Quintero Ramírez - 20231020211
 
 Steven Alberto Niño Rivera - 20231020209
 
+## Diagrama UML Template Method
+
+[TemplateMethod.drawio](https://drive.google.com/file/d/1vhgU2yoB0N3OqXfnyr_SyeQhJ0tfrVqy/view?usp=sharing)
+
 ## Diagrama UML Strategy Method
 
 [UML Strategy](https://drive.google.com/file/d/1KHL2kZau2kQoIesO7aRchwV60YqsYowM/view?usp=drive_link)
